@@ -8,4 +8,4 @@ You can type any city you want to search and in any language you desire.
 some screens about how it works:
 ![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/mycity.png "Palermo")
 
-![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/coldscreen.png =250x250)
+![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/coldscreen.png | widht=100)
