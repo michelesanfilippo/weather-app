@@ -8,6 +8,6 @@ The showed screen will change basing on the temperature.
 
 Here are some screens about how it works:
 
-![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/mycity.png "Palermo" {width=40px height=400px})
+![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/mycity.png "Palermo")
 
-![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/coldscreen.png)
+![alt text](https://github.com/michelesanfilippo/weather-app/raw/master/screens/coldscreen.png "London")
